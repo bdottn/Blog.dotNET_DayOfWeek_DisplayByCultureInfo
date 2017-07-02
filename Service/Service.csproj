@@ -35,6 +35,7 @@
   <ItemGroup>
     <Compile Include="ChineseDisplayService.cs" />
     <Compile Include="DisplayService.cs" />
+    <Compile Include="JapaneseDisplayService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Protocol\IDisplayService.cs" />
   </ItemGroup>
